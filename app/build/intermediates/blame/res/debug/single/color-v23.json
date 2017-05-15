@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/glamvian/Documents/ud851-Exercises-student/Lesson04a-Starting-New-Activities/ToysIntent/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/glamvian/Documents/ud851-Exercises-student/Lesson04a-Starting-New-Activities/ToysIntent/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/glamvian/Documents/ud851-Exercises-student/Lesson04a-Starting-New-Activities/ToysIntent/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/glamvian/Documents/ud851-Exercises-student/Lesson04a-Starting-New-Activities/ToysIntent/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/glamvian/Documents/ud851-Exercises-student/Lesson04a-Starting-New-Activities/ToysIntent/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/glamvian/Documents/ud851-Exercises-student/Lesson04a-Starting-New-Activities/ToysIntent/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/glamvian/Documents/ud851-Exercises-student/Lesson04a-Starting-New-Activities/ToysIntent/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/glamvian/Documents/ud851-Exercises-student/Lesson04a-Starting-New-Activities/ToysIntent/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/glamvian/Documents/ud851-Exercises-student/Lesson04a-Starting-New-Activities/ToysIntent/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/glamvian/Documents/ud851-Exercises-student/Lesson04a-Starting-New-Activities/ToysIntent/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/glamvian/.android/build-cache/ffcb1185d6e1221c6c8c66aed997410097a76639/output/res/color-v23/abc_tint_seek_thumb.xml"
+    }
+]

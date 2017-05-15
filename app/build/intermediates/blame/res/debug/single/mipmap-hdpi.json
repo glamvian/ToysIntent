@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/glamvian/Documents/ud851-Exercises-student/Lesson04a-Starting-New-Activities/ToysIntent/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/glamvian/Documents/ud851-Exercises-student/Lesson04a-Starting-New-Activities/ToysIntent/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/glamvian/Documents/ud851-Exercises-student/Lesson04a-Starting-New-Activities/ToysIntent/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/glamvian/Documents/ud851-Exercises-student/Lesson04a-Starting-New-Activities/ToysIntent/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]
