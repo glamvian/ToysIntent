@@ -21,10 +21,13 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                //data yang akan dikirim ke childactivity
+                String dataEditText = editText.getText().toString();
                 Context context = MainActivity.this;
                 Class destinationClass = ChildActivity.class;
                 Intent intent = new Intent(context,destinationClass);
+                //method putextra yang memuat data yang akan dikirim ke chilactivity
+                intent.putExtra(Intent.EXTRA_TEXT,dataEditText);
                 //String message = "auooo";
                 //Toast.makeText(context,message,Toast.LENGTH_LONG).show();
                 startActivity(intent);
