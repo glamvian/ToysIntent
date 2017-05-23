@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/glmvn/AndroidStudioProjects/ToysIntent/app/src/main/AndroidManifest.xml:2:1-22:12
+ADDED from /home/glmvn/AndroidStudioProjects/ToysIntent/app/src/main/AndroidManifest.xml:2:1-26:12
 	package
 		ADDED from /home/glmvn/AndroidStudioProjects/ToysIntent/app/src/main/AndroidManifest.xml:3:5-46
 		INJECTED from /home/glmvn/AndroidStudioProjects/ToysIntent/app/src/main/AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from /home/glmvn/AndroidStudioProjects/ToysIntent/app/src/main/AndroidMani
 		INJECTED from /home/glmvn/AndroidStudioProjects/ToysIntent/app/src/main/AndroidManifest.xml
 		INJECTED from /home/glmvn/AndroidStudioProjects/ToysIntent/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/glmvn/AndroidStudioProjects/ToysIntent/app/src/main/AndroidManifest.xml:5:5-20:19
+ADDED from /home/glmvn/AndroidStudioProjects/ToysIntent/app/src/main/AndroidManifest.xml:5:5-24:19
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:25.3.1] /home/glmvn/.android/build-cache/ffa5781ac46afd4369f9a8d3bb1d552a3391bd92/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] /home/glmvn/.android/build-cache/1c27f65d11b67c3a74c5857530273cb6efc94aee/output/AndroidManifest.xml:29:5-20
@@ -52,9 +52,17 @@ ADDED from /home/glmvn/AndroidStudioProjects/ToysIntent/app/src/main/AndroidMani
 	android:name
 		ADDED from /home/glmvn/AndroidStudioProjects/ToysIntent/app/src/main/AndroidManifest.xml:16:27-74
 activity#com.example.glamvian.toysintent.ChildActivity
-ADDED from /home/glmvn/AndroidStudioProjects/ToysIntent/app/src/main/AndroidManifest.xml:19:9-60
+ADDED from /home/glmvn/AndroidStudioProjects/ToysIntent/app/src/main/AndroidManifest.xml:19:9-23:20
+	android:parentActivityName
+		ADDED from /home/glmvn/AndroidStudioProjects/ToysIntent/app/src/main/AndroidManifest.xml:20:13-55
 	android:name
 		ADDED from /home/glmvn/AndroidStudioProjects/ToysIntent/app/src/main/AndroidManifest.xml:19:19-48
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/glmvn/AndroidStudioProjects/ToysIntent/app/src/main/AndroidManifest.xml:21:13-22:48
+	android:value
+		ADDED from /home/glmvn/AndroidStudioProjects/ToysIntent/app/src/main/AndroidManifest.xml:22:17-46
+	android:name
+		ADDED from /home/glmvn/AndroidStudioProjects/ToysIntent/app/src/main/AndroidManifest.xml:21:24-70
 uses-sdk
 INJECTED from /home/glmvn/AndroidStudioProjects/ToysIntent/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/glmvn/.android/build-cache/f28deffc4113c54179b50c4dfb6c0a35078c6a65/output/AndroidManifest.xml:21:5-23:78
